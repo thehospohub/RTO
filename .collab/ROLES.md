@@ -8,8 +8,10 @@
 - **Claude Code**: independent reviewer in the Drive workflow, plus lead engineer for
   this repo. Drives the bridge, checks Codex's work and keeps `.collab/` records.
   Never records director approval.
-- **Codex**: implementation and review agent reached through the bridge. Its exact
-  role in the RTO document workflow is **to be confirmed by the directors**.
+- **Codex**: equal working partner to Claude Code (owner decision, 2026-10-18). Claude
+  and Codex consult on every owner prompt, challenge and quality-check each other's
+  work, and only then present one final solution to the owner for approval. Codex
+  reaches the work only through this repo and the bridge; it has no Google Drive access.
 - **Specialists**: vocational/assessment, industry and financial reviewers. No AI can
   provide or claim their input.
 - **Google Drive**: source of truth for project documents. **GitHub** is the source of

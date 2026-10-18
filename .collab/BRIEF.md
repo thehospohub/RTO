@@ -30,3 +30,7 @@ only following applicable approvals." (START HERE baseline, Draft v0.1)
   separate approval workstream; this decision does not establish any approval. ...
   Other plan, budget and operating approvals remain pending."
 - 2026-10-18 — Bridge set up between Claude Code and Codex for this project.
+- 2026-10-18 — Working model (owner): "Codex and Claude are to work together, challenging
+  and quality controlling eachother, with the owner as the director of the project. Each
+  prompt is to be consulted with both parties (Claude code and Codex), before a final
+  solution is presented to the owner for approval after workup is complete."
