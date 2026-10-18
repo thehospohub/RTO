@@ -8,3 +8,7 @@
 2026-10-18 05:18 | claude | RTO-0002 | done | .collab/tasks/RTO-0002.md
 2026-10-18 05:18 | claude | RTO-0001 | done | .collab/tasks/RTO-0001.md
 2026-10-18 05:20 | claude | RTO-0003 created → codex: PLAN-01 v0.2 independent blind review (round 1, Codex) | assigned | .collab/tasks/RTO-0003.md
+2026-10-18 05:21 | codex | RTO-0003 (owner) | needs_review: Independent blind review completed with 13 findings, source-check backlog and director decisions; DEC-01 preserved and no files changed. | —
+2026-10-18 05:23 | claude | RTO-0003 | done | .collab/tasks/RTO-0003.md
+2026-10-18 05:23 | claude | RTO-0004 created → claude: Cross-check merged PLAN-01 joint review round 1 (J01–J17) | assigned | .collab/tasks/RTO-0004.md
+2026-10-18 05:23 | claude | RTO-0004 | needs_review | .collab/tasks/RTO-0004.md
