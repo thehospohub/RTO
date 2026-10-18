@@ -1,2 +1,4 @@
 # Collaboration log (append-only)
 # YYYY-MM-DD HH:MM | who | task | outcome | files touched
+2026-10-10 00:00 | claude | PLAN-01 review round 1 (Drive, pre-bridge) | REVIEW COMPLETE — CHANGES REQUIRED: 14 findings; not appended to Drive (no edit access) | .collab/reviews/PLAN-01-claude-review-r1-2026-10-10.md
+2026-10-18 05:30 | claude | bridge setup | PROJECT/BRIEF/ROLES written from START HERE; bridge.py check OK; Codex blocked by network policy | .collab/
