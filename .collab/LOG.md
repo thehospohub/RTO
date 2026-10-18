@@ -12,3 +12,5 @@
 2026-10-18 05:23 | claude | RTO-0003 | done | .collab/tasks/RTO-0003.md
 2026-10-18 05:23 | claude | RTO-0004 created → claude: Cross-check merged PLAN-01 joint review round 1 (J01–J17) | assigned | .collab/tasks/RTO-0004.md
 2026-10-18 05:23 | claude | RTO-0004 | needs_review | .collab/tasks/RTO-0004.md
+2026-10-18 05:23 | codex | RTO-0004 (reviewer) | changes_requested: Restore omitted controls, resolve C05 severity, qualify progress and regulatory assertions, and complete pending director decisions. | —
+2026-10-18 05:24 | claude | RTO-0004 | needs_review | .collab/tasks/RTO-0004.md
