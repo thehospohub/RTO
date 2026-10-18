@@ -7,3 +7,4 @@
 2026-10-18 05:18 | codex | RTO-0001 (owner) | needs_review: Verified repository and HEAD; summarised the top-level layout; no files changed. | RTO-0002
 2026-10-18 05:18 | claude | RTO-0002 | done | .collab/tasks/RTO-0002.md
 2026-10-18 05:18 | claude | RTO-0001 | done | .collab/tasks/RTO-0001.md
+2026-10-18 05:20 | claude | RTO-0003 created → codex: PLAN-01 v0.2 independent blind review (round 1, Codex) | assigned | .collab/tasks/RTO-0003.md
