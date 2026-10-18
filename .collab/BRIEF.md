@@ -34,3 +34,6 @@ only following applicable approvals." (START HERE baseline, Draft v0.1)
   and quality controlling eachother, with the owner as the director of the project. Each
   prompt is to be consulted with both parties (Claude code and Codex), before a final
   solution is presented to the owner for approval after workup is complete."
+- 2026-10-18 — Roles (owner): "Whatever is in the Drive plan is what the client wants, so go
+  ahead." ChatGPT stays project manager and primary drafter per Delivery Plan v0.2;
+  Claude and Codex together form the review side.

@@ -12,6 +12,8 @@
   and Codex consult on every owner prompt, challenge and quality-check each other's
   work, and only then present one final solution to the owner for approval. Codex
   reaches the work only through this repo and the bridge; it has no Google Drive access.
+  In the Drive workflow, Claude + Codex together fill the plan's "Claude: independent
+  reviewer" role; ChatGPT remains drafter and project manager (owner, 2026-10-18).
 - **Specialists**: vocational/assessment, industry and financial reviewers. No AI can
   provide or claim their input.
 - **Google Drive**: source of truth for project documents. **GitHub** is the source of
