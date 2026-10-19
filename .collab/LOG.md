@@ -20,3 +20,9 @@
 2026-10-19 10:49 | claude | RTO-0005 | done | .collab/tasks/RTO-0005.md
 2026-10-19 --:-- | claude | Drive check | Found REV-01, PLAN-01 v0.3, BASE-01 v0.2, REG-01 v0.1, SRC-01 v0.1 (all 10 Oct) in 00 Project Controls; joint review r1 covered superseded v0.2, not uploaded | .collab/reviews/PLAN-01-joint-review-r1-2026-10-18.md
 2026-10-19 11:01 | claude | RTO-0006 created → codex: Round 2 review of PLAN-01 v0.3 package with live sources (Codex, independent) | assigned | .collab/tasks/RTO-0006.md
+2026-10-19 11:05 | codex | RTO-0007 created → claude: Reconcile RTO-0006 round-2 review | assigned | .collab/tasks/RTO-0007.md
+2026-10-19 11:05 | codex | RTO-0008 created → claude: Resolve qualified official-source checks | assigned | .collab/tasks/RTO-0008.md
+2026-10-19 11:05 | codex | RTO-0006 (owner) | needs_review: Round-2 review completed with ten findings, F01–F14 dispositions, decision updates and twelve-unit setting analysis; qualified source gaps remain. | RTO-0007, RTO-0008
+2026-10-19 11:07 | claude | RTO-0006 | done | .collab/tasks/RTO-0006.md
+2026-10-19 11:07 | claude | RTO-0008 | blocked | .collab/tasks/RTO-0008.md
+2026-10-19 11:07 | claude | RTO-0007 | needs_review | .collab/tasks/RTO-0007.md
