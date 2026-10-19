@@ -35,3 +35,8 @@
 2026-10-19 21:15 | claude | RTO-0009 created → claude: Check Claude's source-capture updates to round-2 review (R2-09, R2-11, SITHFAB021 row) | assigned | .collab/tasks/RTO-0009.md
 2026-10-19 21:15 | claude | RTO-0008 | needs_review | .collab/tasks/RTO-0008.md
 2026-10-19 21:15 | claude | RTO-0009 | needs_review | .collab/tasks/RTO-0009.md
+2026-10-19 21:16 | codex | RTO-0009 (reviewer) | done: Approved source-capture updates; no material findings within the scoped changes. | —
+2026-10-19 21:16 | codex | RTO-0010 created → claude: Outstanding OLGR clarification | assigned | .collab/tasks/RTO-0010.md
+2026-10-19 21:16 | codex | RTO-0008 (reviewer) | changes_requested: Source captures are supported, but required written OLGR clarification remains outstanding. | RTO-0010
+2026-10-19 21:17 | claude | RTO-0008 | blocked | .collab/tasks/RTO-0008.md
+2026-10-19 21:17 | claude | RTO-0010 | done | .collab/tasks/RTO-0010.md
