@@ -37,3 +37,23 @@ only following applicable approvals." (START HERE baseline, Draft v0.1)
 - 2026-10-18 — Roles (owner): "Whatever is in the Drive plan is what the client wants, so go
   ahead." ChatGPT stays project manager and primary drafter per Delivery Plan v0.2;
   Claude and Codex together form the review side.
+- 2026-10-19 — Owner approved the PLAN-01 joint AI review round 1 (J01–J17) ("Approve."). This
+  approves the review for handover to ChatGPT; it is not approval of PLAN-01 itself.
+- 2026-10-19 — DEC-02 (budget): "Provided budget has been given as a guide. We are aware that the
+  provided budget is extremely tight. The provided budget is more for illustrative purposes. The
+  point to get across is that the budget has to remain extremely lean throughout the duration of
+  this project."
+- 2026-10-19 — DEC-03 (entity/accountant): "Companies will be set up in due course. Accountant will
+  also be engaged in due course. Companies and accountant do not prevent us from commencing. No
+  lodgement will be made without the aforementioned two in place."
+- 2026-10-19 — DEC-04 (capacity): "Sharne and Amelia both 4 hours per week for review, strategising,
+  and sign off purposes."
+- 2026-10-19 — DEC-05 (operating assumptions): "Domestic only. Assumption is that the intended scope
+  of registration is going to attract a younger cohort most likely entering the workforce for the
+  first time (16-22). Elective units have been selected so students can complete practicals in their
+  own environment (I.e. at home, workplace, etc.). Should they require facility, they will be able to
+  attend in house training at our office."
+- 2026-10-19 — DEC-06 (Ammonite): "Ammonite will be a go (65% sure)"
+- 2026-10-19 — DEC-07 (state pathways): "QLD as that is the location we are based - if we can not get
+  approvals we will loop back around once registration is obtained"
+- 2026-10-19 — DEC-08: owner asked for further clarification before deciding (pending).
