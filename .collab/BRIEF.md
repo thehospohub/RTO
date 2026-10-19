@@ -56,7 +56,12 @@ only following applicable approvals." (START HERE baseline, Draft v0.1)
 - 2026-10-19 — DEC-06 (Ammonite): "Ammonite will be a go (65% sure)"
 - 2026-10-19 — DEC-07 (state pathways): "QLD as that is the location we are based - if we can not get
   approvals we will loop back around once registration is obtained"
-- 2026-10-19 — DEC-08: owner asked for further clarification before deciding (pending).
+- 2026-10-19 — DEC-08: owner asked for further clarification before deciding.
+- 2026-10-19 — DEC-08 (after clarification): "DEC-08: Approved." Approves (1) the review process:
+  ChatGPT drafts; Claude and Codex review independently and reconcile; ChatGPT responds; unresolved
+  material issues go to the directors after round 2; only directors approve and lodge; and (2) evidence-
+  based pass/fail checkpoints at 28 Feb, 15 Mar and 25 Mar. The written checkpoint lists are still to be
+  drafted by ChatGPT and approved by the directors.
   (Numbering note, Claude: DEC-02..08 above follow the joint review's numbering. In Drive REG-01 v0.1,
   DEC-02 budget, DEC-03 entity/accountant, DEC-04 owner split/cadence and DEC-06 Ammonite match, but
   REG-01 DEC-05 means "Plan v0.3 release". The owner's DEC-05 (operating assumptions) and DEC-07 (Qld
