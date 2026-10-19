@@ -26,3 +26,5 @@
 2026-10-19 11:07 | claude | RTO-0006 | done | .collab/tasks/RTO-0006.md
 2026-10-19 11:07 | claude | RTO-0008 | blocked | .collab/tasks/RTO-0008.md
 2026-10-19 11:07 | claude | RTO-0007 | needs_review | .collab/tasks/RTO-0007.md
+2026-10-19 11:08 | codex | RTO-0007 (reviewer) | changes_requested: Correct placement-law qualifications and preserve the R2-02 severity disagreement before handover. | —
+2026-10-19 11:08 | claude | RTO-0007 | needs_review | .collab/tasks/RTO-0007.md
