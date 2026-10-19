@@ -9,7 +9,7 @@ Usage:
   bridge.py new --owner codex --reviewer claude --type investigation --title T
                 [--from claude] [--sandbox read-only] [--device-test no]
                 [--body TEXT | --body-file F] [--criteria TEXT] [--scope TEXT]
-  bridge.py send TASK [--as owner|reviewer] [--timeout SECONDS]
+  bridge.py send TASK [--as owner|reviewer] [--timeout SECONDS] [--worktree DIR] [--web]
   bridge.py inbox claude|codex|user
   bridge.py post TASK --who claude --status S (--message TEXT | --message-file F)
   bridge.py show TASK
@@ -273,6 +273,10 @@ END-BRIDGE-REPLY
                if sandbox == "workspace-write" and meta.get("network") == "yes" else [])
         # A worktree's index, refs and objects live in the shared git dir, so
         # Codex needs it writable to commit from a worktree.
+        # Codex's web search runs on OpenAI's side, so it works even when this
+        # environment's network policy blocks the sites themselves.
+        if args.web:
+            net += ["-c", "tools.web_search=true"]
         if sandbox == "workspace-write" and wd != os.path.abspath(ROOT):
             net += ["--add-dir", common(wd)]
         r = subprocess.run(["codex", "exec", "-C", wd, "-s", sandbox, *net, "-o", out_file,
@@ -377,6 +381,8 @@ def main():
     sd.add_argument("--as", dest="as_", default="owner", choices=["owner", "reviewer"])
     sd.add_argument("--timeout", type=int, default=900)
     sd.add_argument("--worktree", help="run Codex in this worktree of the repo instead of the root")
+    sd.add_argument("--web", action="store_true",
+                    help="enable Codex web search (for live official-source checks)")
     i = s.add_parser("inbox"); i.add_argument("agent", choices=["claude", "codex", "user"])
     po = s.add_parser("post"); po.add_argument("task")
     # Codex speaks only through `send`, so its thread entries are always genuine replies.
