@@ -28,3 +28,4 @@
 2026-10-19 11:07 | claude | RTO-0007 | needs_review | .collab/tasks/RTO-0007.md
 2026-10-19 11:08 | codex | RTO-0007 (reviewer) | changes_requested: Correct placement-law qualifications and preserve the R2-02 severity disagreement before handover. | —
 2026-10-19 11:08 | claude | RTO-0007 | needs_review | .collab/tasks/RTO-0007.md
+2026-10-19 11:09 | codex | RTO-0007 (reviewer) | changes_requested: Align the director decision gate with R2-02 and correct the stale minors-exemptions source qualification. | —
