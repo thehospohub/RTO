@@ -31,3 +31,7 @@
 2026-10-19 11:09 | codex | RTO-0007 (reviewer) | changes_requested: Align the director decision gate with R2-02 and correct the stale minors-exemptions source qualification. | —
 2026-10-19 11:09 | claude | RTO-0007 | needs_review | .collab/tasks/RTO-0007.md
 2026-10-19 11:09 | codex | RTO-0007 (reviewer) | done: Reconciliation approved; requested gate and source-qualification corrections are complete, with severity disagreement preserved. | —
+2026-10-19 --:-- | claude | RTO-0008 source capture | Network granted; captured SITHFAB021 R3 assessment conditions and OLGR RMLV guideline (TAE40116 not listed); R2-09/R2-11/unit table updated | .collab/sources/captured-2026-10-19/
+2026-10-19 21:15 | claude | RTO-0009 created → claude: Check Claude's source-capture updates to round-2 review (R2-09, R2-11, SITHFAB021 row) | assigned | .collab/tasks/RTO-0009.md
+2026-10-19 21:15 | claude | RTO-0008 | needs_review | .collab/tasks/RTO-0008.md
+2026-10-19 21:15 | claude | RTO-0009 | needs_review | .collab/tasks/RTO-0009.md
