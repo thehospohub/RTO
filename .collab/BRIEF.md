@@ -57,3 +57,7 @@ only following applicable approvals." (START HERE baseline, Draft v0.1)
 - 2026-10-19 — DEC-07 (state pathways): "QLD as that is the location we are based - if we can not get
   approvals we will loop back around once registration is obtained"
 - 2026-10-19 — DEC-08: owner asked for further clarification before deciding (pending).
+  (Numbering note, Claude: DEC-02..08 above follow the joint review's numbering. In Drive REG-01 v0.1,
+  DEC-02 budget, DEC-03 entity/accountant, DEC-04 owner split/cadence and DEC-06 Ammonite match, but
+  REG-01 DEC-05 means "Plan v0.3 release". The owner's DEC-05 (operating assumptions) and DEC-07 (Qld
+  first) need new REG-01 IDs from ChatGPT.)

@@ -16,3 +16,6 @@
 2026-10-18 05:24 | claude | RTO-0004 | needs_review | .collab/tasks/RTO-0004.md
 2026-10-18 05:24 | codex | RTO-0004 (reviewer) | done: Revised joint review fairly preserves all findings and resolves the requested corrections; reconciliation approved. | —
 2026-10-19 10:47 | claude | RTO-0005 created → codex: Independent view: impact of DEC-02..07, DEC-08 clarification, next steps | assigned | .collab/tasks/RTO-0005.md
+2026-10-19 10:48 | codex | RTO-0005 (owner) | needs_review: Independently assessed DEC-02–07, unit-specific practical risks, DEC-08 approval scope and ordered next steps; no files changed. | —
+2026-10-19 10:49 | claude | RTO-0005 | done | .collab/tasks/RTO-0005.md
+2026-10-19 --:-- | claude | Drive check | Found REV-01, PLAN-01 v0.3, BASE-01 v0.2, REG-01 v0.1, SRC-01 v0.1 (all 10 Oct) in 00 Project Controls; joint review r1 covered superseded v0.2, not uploaded | .collab/reviews/PLAN-01-joint-review-r1-2026-10-18.md

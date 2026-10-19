@@ -7,6 +7,14 @@ Reviewed version: START HERE, Drive modifiedTime 2026-10-10T02:09:54Z (baseline 
 Plan v0.2, CURRENT HANDOVER, DIRECTOR SCOPE DECISION DEC-01). Repo mirror:
 `.collab/sources/START-HERE-drive-2026-10-10T0209Z.md`.
 
+> **Status note added 19 Oct 2026 (Claude).** This review covers PLAN-01 v0.2. On 10 Oct 2026, before this
+> review was written, ChatGPT had already responded to Claude's round-1 review (REV-01) and issued PLAN-01
+> v0.3, BASE-01 v0.2, REG-01 v0.1 and SRC-01 v0.1 in Drive "00 Project Controls". Claude missed them because
+> it searched only for START HERE. The owner approved this review on 19 Oct; it was **not uploaded to Drive**.
+> Its new points (mainly Codex's) are carried into the round-2 review of v0.3. SRC-01 disputes the $8,600 ASQA
+> fee in J01: it cites https://www.asqa.gov.au/for-providers/fees-charges/current-fees-charges as
+> $2,350 + $5,000 = $7,350 (10 Oct). Neither figure can be re-checked here until the network allows asqa.gov.au.
+
 **Outcome: REVIEW COMPLETE — CHANGES REQUIRED.**
 This is an AI review. It is not director approval, compliance confirmation or specialist review.
 
