@@ -40,3 +40,4 @@
 2026-10-19 21:16 | codex | RTO-0008 (reviewer) | changes_requested: Source captures are supported, but required written OLGR clarification remains outstanding. | RTO-0010
 2026-10-19 21:17 | claude | RTO-0008 | blocked | .collab/tasks/RTO-0008.md
 2026-10-19 21:17 | claude | RTO-0010 | done | .collab/tasks/RTO-0010.md
+2026-11-13 23:56 | claude | RTO-0011 created → codex: Round 2 review refresh as at 14 Nov 2026: verification, F01-F14 changed vs outstanding, schedule reassessment (Codex, independent) | assigned | .collab/tasks/RTO-0011.md
