@@ -53,3 +53,5 @@
 2026-11-14 00:07 | claude | RTO-0012 | needs_review | .collab/tasks/RTO-0012.md
 2026-11-14 00:08 | codex | RTO-0012 (reviewer) | done: Approved reconciliation and independently verified corrected Drive readback; no material findings remain. | —
 2026-11-14 --:-- | claude+codex | consult: owner reprioritisation (P&P, resources, FV) | independent views recorded, combined understanding sent to owner | .collab/consults/2026-11-14-reprioritise-*
+2026-11-14 00:37 | claude | RTO-0013 created → claude: Cross-check work order for ChatGPT (reprioritised drafting, 14 Nov) | assigned | .collab/tasks/RTO-0013.md
+2026-11-14 00:37 | claude | RTO-0013 | needs_review | .collab/tasks/RTO-0013.md
