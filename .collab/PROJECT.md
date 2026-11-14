@@ -28,7 +28,8 @@ This repo holds the bridge records and any working drafts the directors choose t
 - Director-confirmed scope (DEC-01, 10 Oct 2026): SIT20322 Certificate II in
   Hospitality with core BSBTWK201, SITHIND006, SITHIND007, SITXCCS011, SITXCOM007,
   SITXWHS005 and electives SITXFSA005, SITHFAB021, SITHGAM022, SITXFSA006, BSBTEC201,
-  SITXCOM006; standalone SITHFAB021 (RSA), SITHGAM022 (RSG), SITXFSA005. Do not
+  SITXCOM006; standalone SITHFAB021 (RSA), SITHGAM022 (RSG), SITXFSA005; SITSS00069 Food Safety Supervision
+  Skill Set (SITXFSA005 + SITXFSA006) per BASE-01 v0.2. Do not
   substitute electives or add units.
 - Founder facts in the START HERE baseline (entity, ownership, roles, credentials,
   Ammonite, budget) are recorded as stated; do not alter them.

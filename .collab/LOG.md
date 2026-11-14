@@ -58,3 +58,18 @@
 2026-11-14 00:37 | codex | RTO-0013 (reviewer) | changes_requested: Clarify that the unit-specific three-year industry experience requirement applies to assessors. | —
 2026-11-14 00:38 | claude | RTO-0013 | needs_review | .collab/tasks/RTO-0013.md
 2026-11-14 00:38 | codex | RTO-0013 (reviewer) | done: Approved assessor requirement correction; no material findings remain. | —
+2026-11-14 01:09 | claude | RTO-0014 created → codex: P06 templates T01-T08 (assessment system: pre-use review, validation, adjustments, authenticity) | assigned | .collab/tasks/RTO-0014.md
+2026-11-14 01:12 | codex | RTO-0015 created → claude: Confirm SITSS00069 scope | assigned | .collab/tasks/RTO-0015.md
+2026-11-14 01:12 | codex | RTO-0014 (owner) | needs_review: Drafted eight P06 templates; static checks passed and official validation credentials cited. | RTO-0015
+2026-11-14 01:15 | claude | RTO-0014 | done | .collab/tasks/RTO-0014.md
+2026-11-14 01:15 | claude | RTO-0015 | done | .collab/tasks/RTO-0015.md
+2026-11-14 01:15 | claude | RTO-0016 created → claude: Cross-check Claude's P06 policies POL-01 and POL-02 | assigned | .collab/tasks/RTO-0016.md
+2026-11-14 01:15 | claude | RTO-0016 | needs_review | .collab/tasks/RTO-0016.md
+2026-11-14 01:15 | claude | RTO-0017 created → claude: ChatGPT reviewer: independent review of P06 Assessment System set | assigned | .collab/tasks/RTO-0017.md
+2026-11-14 01:15 | claude | RTO-0017 | needs_review | .collab/tasks/RTO-0017.md
+2026-11-14 01:15 | codex | RTO-0016 (reviewer) | changes_requested: Add credit-transfer access steps, explicit mandatory-workplace safeguards, and accurate proposed-scope wording. | —
+2026-11-14 01:16 | claude | RTO-0016 | needs_review | .collab/tasks/RTO-0016.md
+2026-11-14 01:16 | codex | RTO-0016 (reviewer) | done: Approved the three policy corrections in af3d106; no material review findings remain. | —
+2026-11-14 01:17 | chatgpt-reviewer [gpt-6.1-terra] | RTO-0017 (reviewer) | changes_requested: Correct the validation decision safeguard and the circular pre-use action closure requirement. | —
+2026-11-14 01:17 | claude | RTO-0017 | needs_review | .collab/tasks/RTO-0017.md
+2026-11-14 01:18 | chatgpt-reviewer [gpt-6.1-terra] | RTO-0017 (reviewer) | done: Approved the two review corrections in commit 12b5852; no material findings remain. | —
