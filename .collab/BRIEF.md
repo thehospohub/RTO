@@ -66,3 +66,13 @@ only following applicable approvals." (START HERE baseline, Draft v0.1)
   DEC-02 budget, DEC-03 entity/accountant, DEC-04 owner split/cadence and DEC-06 Ammonite match, but
   REG-01 DEC-05 means "Plan v0.3 release". The owner's DEC-05 (operating assumptions) and DEC-07 (Qld
   first) need new REG-01 IDs from ChatGPT.)
+- 2026-11-14 — Reprioritisation (owner): "1. Policies and procedures written including templates related such as
+  validation pre and post etc 2. Resources including learning material, mapping, marking guides, assessment materials,
+  etc including observation checklists for the necessary units of competency and other relevant documents relevant to
+  compliant training 3. Financial viability statement"
+- 2026-11-14 — Follow-up answers (owner): "1. Keep chatgpt as the drafter, we will then bring them across for claude
+  and codex to review. 2. we are happy with your recommendation. 3. reorder. 4. draft the affected units assuming our
+  office as a simulated set up where practicals cannot be conducted in a virtual/online space"
+  (Context for 2 and 3: the recommendation was to overlap the work, with the assessment system first, then policies
+  and the pilot unit together, and financial groundwork alongside; "reorder" means the recovery schedule is reordered,
+  not replaced, keeping the 15 Dec checkpoint.)
