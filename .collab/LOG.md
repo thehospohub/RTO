@@ -55,3 +55,5 @@
 2026-11-14 --:-- | claude+codex | consult: owner reprioritisation (P&P, resources, FV) | independent views recorded, combined understanding sent to owner | .collab/consults/2026-11-14-reprioritise-*
 2026-11-14 00:37 | claude | RTO-0013 created → claude: Cross-check work order for ChatGPT (reprioritised drafting, 14 Nov) | assigned | .collab/tasks/RTO-0013.md
 2026-11-14 00:37 | claude | RTO-0013 | needs_review | .collab/tasks/RTO-0013.md
+2026-11-14 00:37 | codex | RTO-0013 (reviewer) | changes_requested: Clarify that the unit-specific three-year industry experience requirement applies to assessors. | —
+2026-11-14 00:38 | claude | RTO-0013 | needs_review | .collab/tasks/RTO-0013.md
