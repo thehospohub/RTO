@@ -13,6 +13,16 @@ Compliance Requirements and Credential Policy (validation credentials). Scope (D
 - Placeholders in square brackets, e.g. [Ammonite LMS/SMS — subject to agreement], [office simulated environment address].
 - Practical setting rule (owner 14 Nov): online/virtual where the unit allows; otherwise the office simulated environment.
 - Australian English, plain language, Markdown. Forms use tables with blank fields.
+- **LMS/SMS compatibility (owner, 14 Nov 2026):** all training and assessment is delivered and recorded online through
+  an LMS/SMS (most likely Ammonite; format capabilities not yet confirmed). So every learning and assessment document
+  must be platform-agnostic and import-ready:
+  - modular structure (unit > topic > activity), each item with a stable unique ID (e.g. SITXFSA005-T2-Q04);
+  - questions in structured tables (ID, type, stem, options, correct answer/benchmark, mapping refs, marks/decision rule);
+  - observation checklists and forms built so they can become digital forms completed in the LMS
+    (one row per observable item, Satisfactory / Not Yet Satisfactory, comments, date, assessor sign-off);
+  - practical evidence captured digitally (video, photos, live video observation, third-party report uploads);
+  - no layout that only works on paper (no free-floating text boxes, no merged-cell tricks); accessible (WCAG 2.2 AA).
+  Exact import formats will be fixed once Ammonite's capabilities are confirmed (SYS-01).
 
 ## Document list and writers (one writer per file)
 | ID | File | Title | Writer |

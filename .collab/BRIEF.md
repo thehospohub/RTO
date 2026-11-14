@@ -87,3 +87,5 @@ only following applicable approvals." (START HERE baseline, Draft v0.1)
   Claude relays review/approval requests to directors in chat; optional ChatGPT-app check at final approval;
   finalised versions published to Google Drive): "Please procceed."
   This replaces the earlier "Keep chatgpt as the drafter" instruction.
+- 2026-11-14 — Owner: "One thing to clarify, all training and assessment will be delivered online through and LMS/SMS
+  system (most likely Ammonite), so the learning and assessment documentation have to compatiable down the track."
