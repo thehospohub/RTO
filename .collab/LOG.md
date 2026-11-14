@@ -67,3 +67,5 @@
 2026-11-14 01:15 | claude | RTO-0016 | needs_review | .collab/tasks/RTO-0016.md
 2026-11-14 01:15 | claude | RTO-0017 created → claude: ChatGPT reviewer: independent review of P06 Assessment System set | assigned | .collab/tasks/RTO-0017.md
 2026-11-14 01:15 | claude | RTO-0017 | needs_review | .collab/tasks/RTO-0017.md
+2026-11-14 01:15 | codex | RTO-0016 (reviewer) | changes_requested: Add credit-transfer access steps, explicit mandatory-workplace safeguards, and accurate proposed-scope wording. | —
+2026-11-14 01:16 | claude | RTO-0016 | needs_review | .collab/tasks/RTO-0016.md

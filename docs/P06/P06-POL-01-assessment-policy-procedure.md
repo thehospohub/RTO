@@ -23,7 +23,7 @@ This policy sets out how the RTO plans, conducts, decides and records assessment
 
 ## 2. Scope
 
-All assessment for every training product on the RTO's scope of registration. At the time of drafting that is:
+All assessment for every training product on the RTO's scope of registration. The proposed scope, subject to registration, is:
 - SIT20322 Certificate II in Hospitality, with core units BSBTWK201, SITHIND006, SITHIND007, SITXCCS011, SITXCOM007 and SITXWHS005, and electives SITXFSA005, SITHFAB021, SITHGAM022, SITXFSA006, BSBTEC201 and SITXCOM006;
 - standalone SITHFAB021, SITHGAM022 and SITXFSA005;
 - SITSS00069 Food Safety Supervision Skill Set.
@@ -33,6 +33,8 @@ It applies to:
 - assessment conducted online, in a student's workplace, or in the RTO's simulated environment;
 - assessment through recognition of prior learning (RPL);
 - the assessment-related parts of credit transfer.
+
+Before this policy is used, the scope list is reconciled to the RTO's actual registered scope on training.gov.au (as in P06-T02).
 
 ## 3. Policy
 
@@ -61,6 +63,8 @@ For example, the current Assessment Requirements for SITHFAB021, SITHGAM022 and 
 3.6A **Where practical assessment happens.** Practical tasks are conducted online or virtually wherever the unit's assessment conditions allow it (directors' instruction, 14 November 2026). Where a unit's conditions can't be met online, practical assessment takes place in the RTO's office simulated environment [address to be confirmed]. It must contain the environment, equipment and participants the unit specifies. A student's own workplace may be used only where it is shown to meet the unit's conditions and the RTO has the access it needs to observe or verify the evidence.
 
 Each unit's assessor guide states the setting for each task.
+
+Simulation cannot replace a mandatory real-workplace requirement in a unit. If a proposed setting can't meet the unit's conditions, the tool is not released and the assessment does not go ahead until the TAM has resolved it.
 
 3.7 **Under-18 students.** Assessment arrangements for students under 18 follow P11 Under-18 Safeguarding [to be drafted]. This includes guardian information where required, supervision online and in the simulated environment, and lawful access to licensed or gaming settings. For example, minors may not play gaming machines, so SITHGAM022 practical tasks use a lawful simulation.
 
@@ -117,6 +121,8 @@ The required retention period follows ASQA's current requirements [to verify: AS
 Full RPL procedure: P13 [to be drafted].
 
 ### 4.5 Credit transfer (Std 1.7)
+
+At or before enrolment, the Student Services Officer offers every student the opportunity to seek credit transfer, provides the policy and application instructions, and records that this was done (Std 1.7(a)).
 
 Credit transfer is granted on evidence of prior completion of an equivalent training product, shown by AQF certification documentation or an authenticated VET transcript, unless licensing or regulatory requirements of the training product prevent it. The decision is documented and made fairly, transparently and consistently.
 

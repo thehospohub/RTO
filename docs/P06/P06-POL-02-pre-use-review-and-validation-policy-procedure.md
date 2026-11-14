@@ -42,7 +42,7 @@ Every training product on the RTO's scope of registration (see P06-POL-01 sectio
 ### 3.3 What is checked (recorded on P06-T01)
 - The tool is for the current release of the unit, and the Assessment Requirements were retrieved and dated.
 - Every element and performance criterion, foundation skill, performance evidence item (including the required number of occasions or service periods), knowledge evidence item and assessment condition is assessed by a specific task. This must be shown in the task itself, not only in the mapping.
-- The setting, equipment, resources and participants match the assessment conditions, under the practical setting rule: online where the unit allows it, otherwise the office simulated environment.
+- The setting, equipment, resources and participants match the assessment conditions, under the practical setting rule: online where the unit allows it, otherwise the office simulated environment. Simulation cannot replace a mandatory real-workplace requirement. If the proposed setting can't meet the unit's conditions, the tool is held and the matter goes to the TAM.
 - The **principles of assessment** (fair, flexible, valid, reliable) and **rules of evidence** (valid, sufficient, authentic, current) can be met. This includes clear decision rules, model answers or benchmarks, observable behaviours on checklists, and arrangements for reasonable adjustment, reassessment and authenticity.
 - The instructions to students and assessors are clear and suit the cohort (domestic, mostly aged 16–22, online-first). Language, literacy and digital demands match the unit, not more.
 - The required assessor qualifications and industry experience are stated, for example the three-year industry rule in SITHFAB021, SITHGAM022 and SITHIND007.
