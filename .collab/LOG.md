@@ -49,3 +49,5 @@
 2026-11-14 00:02 | claude | Round 2 review saved to Drive | "Claude — Delivery Plan Round 2 Review" created in 00 Project Controls; readback verified | https://docs.google.com/document/d/1Zijwx4mwsTCjeojfdURzsLFsdN5kvBGFdB1d1fsHRFE
 2026-11-14 00:02 | claude | RTO-0012 | needs_review | .collab/tasks/RTO-0012.md
 2026-11-14 00:02 | codex | RTO-0012 (reviewer) | changes_requested: Requested content corrections are complete, but Drive readback reveals a truncated fee comparison that must be restored. | —
+2026-11-14 00:07 | claude | Round 2 review re-saved | Conversion had dropped fee text (caught by Codex); corrected copy created and verified word by word; first copy renamed DEFECTIVE COPY | https://docs.google.com/document/d/1-tY0Erx7jlT3yL55VzVIex-zsvLvpadtu5db1FweJ0A
+2026-11-14 00:07 | claude | RTO-0012 | needs_review | .collab/tasks/RTO-0012.md
