@@ -52,3 +52,4 @@
 2026-11-14 00:07 | claude | Round 2 review re-saved | Conversion had dropped fee text (caught by Codex); corrected copy created and verified word by word; first copy renamed DEFECTIVE COPY | https://docs.google.com/document/d/1-tY0Erx7jlT3yL55VzVIex-zsvLvpadtu5db1FweJ0A
 2026-11-14 00:07 | claude | RTO-0012 | needs_review | .collab/tasks/RTO-0012.md
 2026-11-14 00:08 | codex | RTO-0012 (reviewer) | done: Approved reconciliation and independently verified corrected Drive readback; no material findings remain. | —
+2026-11-14 --:-- | claude+codex | consult: owner reprioritisation (P&P, resources, FV) | independent views recorded, combined understanding sent to owner | .collab/consults/2026-11-14-reprioritise-*
