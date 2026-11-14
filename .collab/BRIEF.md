@@ -81,3 +81,9 @@ only following applicable approvals." (START HERE baseline, Draft v0.1)
   approvals. Work flow - Codex and Claude create, Codex prompts directors for review were required, Codex and Claude
   fix and amend, Codex prompts directprs for review and approval if ok. Published finalised version in G Drive."
   (Clarification of "Chat" and of how directors are prompted pending.)
+- 2026-11-14 — Owner: "Querie about 1- it is important that Chat reviews your work to ensure multiple sets of eyes
+  oversea. How do we do this?" — then, on the proposal (Claude + Codex draft; an independent "ChatGPT reviewer"
+  (a different OpenAI GPT model run through Codex on the ChatGPT subscription) reviews every document blind;
+  Claude relays review/approval requests to directors in chat; optional ChatGPT-app check at final approval;
+  finalised versions published to Google Drive): "Please procceed."
+  This replaces the earlier "Keep chatgpt as the drafter" instruction.

@@ -92,3 +92,13 @@ but still log them in `LOG.md`.
 Requirements enter as a task file with `from: user` (or `from: chatgpt`), written by
 Claude from what the user says, or committed directly to `.collab/tasks/` by another
 agent with GitHub access. Claude picks them up with `bridge.py inbox claude`.
+
+## Document workflow (owner, 14 Nov 2026)
+1. Claude and Codex draft (writer + cross-checker, split by file) on a `collab/RTO-NNNN` branch, under `docs/`.
+2. Independent ChatGPT-reviewer review (different model, blind), plus the cross-check; Claude reconciles.
+   Disagreements that remain go to the directors side by side. At most two AI review rounds.
+3. Claude asks the directors for review or approval in chat, with the files and any decisions needed.
+4. Fix and amend, and repeat step 3 until the directors approve.
+5. Claude publishes the approved final version as a new Google Doc in the matching Drive folder, verifies by readback,
+   and merges the branch. Nothing is marked approved without a director's explicit approval in chat.
+

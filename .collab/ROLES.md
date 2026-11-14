@@ -21,3 +21,17 @@
 
 Each substantive task has exactly one owner (the only writer) and one reviewer.
 Default when unassigned: Claude leads and reviews, Codex builds.
+
+## Current working model (owner, 14 Nov 2026; replaces the ChatGPT-drafter arrangement)
+- **Claude + Codex create** the documents. For each document one is the writer and the other the cross-checker;
+  files are split so they never edit the same file at once.
+- **ChatGPT reviewer**: an independent third review of every document by a different OpenAI GPT model
+  (gpt-6.1-terra; Codex itself runs gpt-6.1-sol), run by Claude through the Codex CLI on the ChatGPT subscription
+  (`bridge.py send --as reviewer --name chatgpt-reviewer --model gpt-6.1-terra`). It reviews blind to the other
+  reviews. It is not the ChatGPT app and has no memory of ChatGPT conversations.
+- **Directors (Amelia, Sharne)**: carry nothing between tools. Claude sends review and approval requests in chat
+  on behalf of all three reviewers (Codex cannot contact the directors). Optional: a director may ask the ChatGPT app
+  to check a final document in Drive, using a one-line prompt Claude supplies.
+- **Publishing**: only director-approved final versions are published to the matching Google Drive folder.
+- The ChatGPT app (formerly drafter and project manager) is no longer in the drafting loop.
+

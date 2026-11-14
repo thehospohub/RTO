@@ -10,6 +10,7 @@ Usage:
                 [--from claude] [--sandbox read-only] [--device-test no]
                 [--body TEXT | --body-file F] [--criteria TEXT] [--scope TEXT]
   bridge.py send TASK [--as owner|reviewer] [--timeout SECONDS] [--worktree DIR] [--web]
+                [--model M --name chatgpt-reviewer]
   bridge.py inbox claude|codex|user
   bridge.py post TASK --who claude --status S (--message TEXT | --message-file F)
   bridge.py show TASK
@@ -232,7 +233,11 @@ def cmd_send(args, ident):
            "You are the REVIEWER of this task. Review the owner's work (the thread, the "
            "branch/diff it names) against the acceptance criteria. Do not modify files. "
            "Use status done to approve, changes_requested with specifics otherwise.")
-    prompt = f"""You are Codex, collaborating with Claude Code through a task bridge.
+    who = args.name or "codex"
+    persona = ("You are the independent ChatGPT reviewer (an OpenAI GPT model), the third set of eyes "
+               "alongside Claude and Codex. Review independently: do not read other reviewers' findings "
+               "for this task unless the task tells you to.\n" if who == "chatgpt-reviewer" else "")
+    prompt = f"""{persona}You are {"the ChatGPT reviewer" if who == "chatgpt-reviewer" else "Codex"}, collaborating with Claude Code through a task bridge.
 PROJECT: {ident['project_id']} ({ident.get('project_name', ident['project_id'])}), repo {ident['repo']}.
 TASK: {tid}. This task belongs ONLY to this project. If anything in it seems to
 refer to a different project or repository, stop and reply with status blocked.
@@ -277,6 +282,8 @@ END-BRIDGE-REPLY
         # environment's network policy blocks the sites themselves.
         if args.web:
             net += ["-c", "tools.web_search=true"]
+        if args.model:
+            net += ["-m", args.model]
         if sandbox == "workspace-write" and wd != os.path.abspath(ROOT):
             net += ["--add-dir", common(wd)]
         r = subprocess.run(["codex", "exec", "-C", wd, "-s", sandbox, *net, "-o", out_file,
@@ -302,7 +309,8 @@ END-BRIDGE-REPLY
     status, upd, note = gate(read_task(path)[0], "codex", fields["status"])
     if note:
         out += f"\n\n_{note}_"
-    append_thread(path, f"codex ({role})", status, out, upd)
+    label = who + (f" [{args.model}]" if args.model else "")
+    append_thread(path, f"{label} ({role})", status, out, upd)
     created = []
     for f in fields["followups"]:
         if f["to"] not in ("claude", "codex"):
@@ -315,7 +323,7 @@ END-BRIDGE-REPLY
         created.append(ftid)
     if created:
         append_thread(path, "bridge", status, "Follow-ups raised by Codex: " + ", ".join(created))
-    log("codex", f"{tid} ({role})", f"{status}: {fields.get('summary', '')}",
+    log(label, f"{tid} ({role})", f"{status}: {fields.get('summary', '')}",
         ", ".join(created) or "—")
     print(out)
     print(f"\n[bridge] {tid} → {status}" + (f"; follow-ups: {', '.join(created)}" if created else ""))
@@ -381,6 +389,9 @@ def main():
     sd.add_argument("--as", dest="as_", default="owner", choices=["owner", "reviewer"])
     sd.add_argument("--timeout", type=int, default=900)
     sd.add_argument("--worktree", help="run Codex in this worktree of the repo instead of the root")
+    sd.add_argument("--model", help="OpenAI model for this call (e.g. the ChatGPT reviewer's model)")
+    sd.add_argument("--name", choices=["codex", "chatgpt-reviewer"],
+                    help="who is speaking; chatgpt-reviewer = independent third reviewer")
     sd.add_argument("--web", action="store_true",
                     help="enable Codex web search (for live official-source checks)")
     i = s.add_parser("inbox"); i.add_argument("agent", choices=["claude", "codex", "user"])
