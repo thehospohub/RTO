@@ -85,7 +85,7 @@ These were given by the project owner to Claude on 19 October 2026 and are recor
 | Operating assumptions | "Domestic only. Assumption is that the intended scope of registration is going to attract a younger cohort most likely entering the workforce for the first time (16-22). Elective units have been selected so students can complete practicals in their own environment (I.e. at home, workplace, etc.). Should they require facility, they will be able to attend in house training at our office." | Record domestic only and a 16–22 cohort assumption. Treat whether each setting is suitable as unverified (R2-02). |
 | Ammonite | "Ammonite will be a go (65% sure)" | Change REG-01 "CONFIRMED" to intended, 65% sure. Prepare options for escalation, without choosing one. |
 | State pathways | "QLD as that is the location we are based - if we can not get approvals we will loop back around once registration is obtained" | Queensland first. ASQA registration alone does not permit state-approved delivery. |
-| Review process and gates | "Approved." (given after the review process and evidence-based checkpoints were explained) | Record the process: independent Claude and Codex review, reconciliation, ChatGPT disposition, director escalation after round 2. ChatGPT drafts the checkpoint lists for director approval. This does not approve PLAN-01. |
+| Review process and gates | "DEC-08: Approved." (given after the review process and evidence-based checkpoints were explained) | Record the process: independent Claude and Codex review, reconciliation, ChatGPT disposition, director escalation after round 2. ChatGPT drafts the checkpoint lists for director approval. This does not approve PLAN-01. |
 | Numbering | — | REG-01's existing DEC-05 ("Plan v0.3 release") stays as a historical entry. Give the operating assumptions, Queensland priority and review process their own new IDs. |
 
 ## 6. Schedule as at 14 November 2026
@@ -104,8 +104,8 @@ These were given by the project owner to Claude on 19 October 2026 and are recor
 |---|---|
 | 14–20 Nov | ChatGPT applies this review and the owner's decisions (PLAN-01 v0.4, BASE-01 v0.3, REG-01 v0.2). CMP-01 skeleton, current-source controls and the 12-unit practical-setting matrix. Draft checkpoint lists. |
 | By 30 Nov | Cost the practical-site options. Collect workforce and specialist availability, request industry consultation, and request written Ammonite terms and access. **Directors choose the practical-site model** and confirm who does which real-world action. |
-| 1–14 Dec | Provisional TAS skeletons, P06 and the SITXFSA005 pilot package, run through the full draft → two AI reviews → revision cycle. Measure director time and specialist turnaround. |
-| 15 Dec | **Recovery checkpoint.** Work out the remaining effort from measured throughput. Directors decide whether 1 April stays or moves. |
+| 1–14 Dec | Provisional TAS skeletons, P06 and the SITXFSA005 pilot package, run through the full draft → two AI reviews → revision cycle. Measure actual drafting, review and director time. Record confirmed specialist availability and their estimated turnaround (the specialist review itself happens in early January). |
+| 15 Dec | **Recovery checkpoint.** Work out the remaining effort from measured AI and director throughput plus the confirmed specialist estimates. Directors decide whether 1 April stays or moves. The decision is conditional on the pilot's specialist review in early January: if that review reopens the design, reforecast again. |
 | 16 Dec–31 Jan | The remaining 11 unit packages in controlled batches, in priority order (RSA, RSG and food safety first). Specialist review of the pilot in early January, before it is copied. Policies, forms, TAS and system work alongside. Workforce and site access evidence, finance draft, company and accountant by 31 Jan. |
 | 1–28 Feb | Specialist corrections, Ammonite configuration and workflow tests, evidence pack. **28 Feb readiness gate.** |
 | 1–15 Mar | Mock application and walkthrough, fixes and retests, source refresh. **15 Mar director-ready pack.** |
@@ -141,7 +141,7 @@ From each unit's Assessment Requirements on training.gov.au (opened 19 Oct; SITH
 
 ## 8. Decisions that need Amelia or Sharne
 
-Only these need a director. Everything else is AI or ChatGPT work.
+These are the only decisions that need a director. Separately, directors have real-world actions (listed below). Drafting, registers and research are ChatGPT's work, AI review is Claude and Codex's, and vocational, industry and financial review needs competent specialists.
 
 1. **Practical-site model:** office simulation, host workplaces, or a mix, once ChatGPT has costed the options. Due by 30 November.
 2. **Latest-safe dates for engaging an accountant and setting up the company and trusts,** and who leads this. Suggested: accountant by mid-December, entity by 31 January.

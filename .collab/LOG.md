@@ -45,3 +45,6 @@
 2026-11-13 23:58 | codex | RTO-0011 (owner) | needs_review: Refreshed official-source checks, retained all open findings, and proposed a conditional recovery schedule for 1 April 2027. | RTO-0012
 2026-11-14 00:00 | claude | RTO-0011 | done | .collab/tasks/RTO-0011.md
 2026-11-14 00:00 | claude | RTO-0012 | needs_review | .collab/tasks/RTO-0012.md
+2026-11-14 00:01 | codex | RTO-0012 (reviewer) | changes_requested: Complete Drive save/readback and correct specialist-checkpoint evidence and role wording. | —
+2026-11-14 00:02 | claude | Round 2 review saved to Drive | "Claude — Delivery Plan Round 2 Review" created in 00 Project Controls; readback verified | https://docs.google.com/document/d/1Zijwx4mwsTCjeojfdURzsLFsdN5kvBGFdB1d1fsHRFE
+2026-11-14 00:02 | claude | RTO-0012 | needs_review | .collab/tasks/RTO-0012.md
