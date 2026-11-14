@@ -76,3 +76,8 @@ only following applicable approvals." (START HERE baseline, Draft v0.1)
   (Context for 2 and 3: the recommendation was to overlap the work, with the assessment system first, then policies
   and the pilot unit together, and financial groundwork alongside; "reorder" means the recovery schedule is reordered,
   not replaced, keeping the 15 Dec checkpoint.)
+- 2026-11-14 — Process change (owner): "Change to process. Codex and Chat directly interact - directors don't have
+  input and don't upload documents between (nothing physically bought across by directors), just get asked for
+  approvals. Work flow - Codex and Claude create, Codex prompts directors for review were required, Codex and Claude
+  fix and amend, Codex prompts directprs for review and approval if ok. Published finalised version in G Drive."
+  (Clarification of "Chat" and of how directors are prompted pending.)
