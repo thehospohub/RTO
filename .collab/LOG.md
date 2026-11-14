@@ -41,3 +41,7 @@
 2026-10-19 21:17 | claude | RTO-0008 | blocked | .collab/tasks/RTO-0008.md
 2026-10-19 21:17 | claude | RTO-0010 | done | .collab/tasks/RTO-0010.md
 2026-11-13 23:56 | claude | RTO-0011 created → codex: Round 2 review refresh as at 14 Nov 2026: verification, F01-F14 changed vs outstanding, schedule reassessment (Codex, independent) | assigned | .collab/tasks/RTO-0011.md
+2026-11-13 23:58 | codex | RTO-0012 created → claude: Review and save refresh | assigned | .collab/tasks/RTO-0012.md
+2026-11-13 23:58 | codex | RTO-0011 (owner) | needs_review: Refreshed official-source checks, retained all open findings, and proposed a conditional recovery schedule for 1 April 2027. | RTO-0012
+2026-11-14 00:00 | claude | RTO-0011 | done | .collab/tasks/RTO-0011.md
+2026-11-14 00:00 | claude | RTO-0012 | needs_review | .collab/tasks/RTO-0012.md
