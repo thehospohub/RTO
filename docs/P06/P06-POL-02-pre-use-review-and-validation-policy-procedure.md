@@ -55,7 +55,7 @@ Every training product on the RTO's scope of registration (see P06-POL-01 sectio
 | Approved with minor changes | Changes that don't affect validity | Make the changes; the TAM confirms they're done; then release |
 | Not approved | Changes affect validity or coverage | Revise, then a new pre-use review |
 
-Every required change is logged on P06-T06 and closed before release (Std 1.3(c)).
+Every required change is logged on P06-T06, made, and rechecked (documented on P06-T01) before release (Std 1.3(c)). Where a change's effectiveness can only be shown after first use, a separate follow-up action stays open on P06-T06, with an owner, due date and interim controls, until it is verified.
 
 ## 4. Assessment validation (Std 1.5)
 
@@ -80,9 +80,7 @@ The method and the reasons are recorded. The Standards don't set a sampling form
   - a practical understanding of current industry practice relevant to the training product;
   - one of the validation credentials in the Credential Policy.
 - This is checked and recorded on P06-T04 before validation starts.
-- **The outcome of a validation is not decided solely by a person who designed or delivered the training or assessment being validated** (Std 1.5(f)). With a small workforce, this means either:
-  - an external validator takes part and contributes to the outcome; or
-  - at least one team member with no involvement in that design or delivery takes part.
+- **The outcome of a validation is not decided solely by a person who designed or delivered the training or assessment being validated** (Std 1.5(f)). So at least one person who did not design or deliver the training or assessment being validated must take a substantive part in deciding the outcome. That person may be an external validator, but being external is not enough on its own: they must not have designed or delivered it, and they must genuinely take part in the decision. Their contribution and the decision method are recorded on P06-T05.
 - The extra requirement for an independent validator after the first cohort (Std 1.5(d)) applies to qualifications and skill sets from the Training and Education (TAE) Training Package that let people make assessment judgements. It does **not** apply to the RTO's current scope. It would apply if TAE products were added later.
 - Engaging external validators, and any cost, needs director approval (lean budget principle).
 

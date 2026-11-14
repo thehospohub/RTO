@@ -22,7 +22,7 @@ The Hospo Hub is not registered; proposed entity not yet incorporated. This blan
 
 ## Completion instructions
 
-TAM maintains this register under P06-POL-02 for both pre-use review and validation. Use one row per finding/action, linking T01 or T05. Assign a role and obtain actual acceptance; do not imply anyone is appointed. Close only after objective evidence of implementation and effectiveness is checked. A revised document alone may not show the issue is resolved in practice. Escalate unresolved material risks and overdue actions under the policy.
+TAM maintains this register under P06-POL-02 for both pre-use review and validation. Use one row per finding/action, linking T01 or T05. Assign a role and obtain actual acceptance; do not imply anyone is appointed. Close only after objective evidence of implementation and effectiveness is checked. For pre-use review actions, release needs the correction made and a documented pre-release recheck (T01); effectiveness after first use is tracked as a separate follow-up action, kept open with an owner, due date and interim controls until verified. A revised document alone may not show the issue is resolved in practice. Escalate unresolved material risks and overdue actions under the policy.
 
 | Field / instruction | Entry | Evidence purpose |
 | --- | --- | --- |

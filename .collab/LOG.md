@@ -69,3 +69,6 @@
 2026-11-14 01:15 | claude | RTO-0017 | needs_review | .collab/tasks/RTO-0017.md
 2026-11-14 01:15 | codex | RTO-0016 (reviewer) | changes_requested: Add credit-transfer access steps, explicit mandatory-workplace safeguards, and accurate proposed-scope wording. | —
 2026-11-14 01:16 | claude | RTO-0016 | needs_review | .collab/tasks/RTO-0016.md
+2026-11-14 01:16 | codex | RTO-0016 (reviewer) | done: Approved the three policy corrections in af3d106; no material review findings remain. | —
+2026-11-14 01:17 | chatgpt-reviewer [gpt-6.1-terra] | RTO-0017 (reviewer) | changes_requested: Correct the validation decision safeguard and the circular pre-use action closure requirement. | —
+2026-11-14 01:17 | claude | RTO-0017 | needs_review | .collab/tasks/RTO-0017.md
